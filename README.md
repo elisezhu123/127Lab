@@ -1,7 +1,7 @@
-Silicon Local 
+127Lab
 
 Description:
-SiliconLocal is a native macOS utility that lets developers create custom URL mappings for localhost (127.0.0.1), perfect for testing web projects, APIs, and multi-service environments. Optimized for Apple Silicon and running entirely on your machine, it eliminates the need for complex hosts file edits or cloud dependencies.
+127Lab is a native macOS utility that lets developers create custom URL mappings for localhost (127.0.0.1), perfect for testing web projects, APIs, and multi-service environments. Optimized for Apple Silicon and running entirely on your machine, it eliminates the need for complex hosts file edits or cloud dependencies.
 
 Techniques:
 - Custom Domain Mapping: Route your-app.local → 127.0.0.1:3000
